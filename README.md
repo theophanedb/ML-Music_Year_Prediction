@@ -32,3 +32,9 @@ Its average absolute distance from the original release year is 9 years.
   - `streamlit run ...\streamlit_app\main.py`
   - For example, I enter this command : `streamlit run C:\Users\theop\Desktop\streamlit_app\main.py`
 - Go to http://localhost:8501
+
+### Requirements
+- numpy
+- pandas
+- pickle
+- streamlit
