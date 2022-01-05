@@ -9,4 +9,5 @@ The dataset consists of 515345 instances, 90 predictors and 1 target : Year.
 
 ## The repository contains
 - A Jupyter Notebook where you can find all data processing, dataviz and machine learning algorithms
-- An API
+- An API 
+- Documentation about the subject, the context and the dataset 
