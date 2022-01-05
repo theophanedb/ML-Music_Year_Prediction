@@ -37,4 +37,3 @@ Its average absolute distance from the original release year is 9 years.
 - numpy
 - pandas
 - pickle
-- streamlit
